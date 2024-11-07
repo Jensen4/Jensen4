@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning RISC-V, Assembly
-- 🔭 I’m currently working on an Othello game in Java, Sokoban in Assembly
+- 🌱 I’m currently learning RISC-V, Assembly, Javascript
+- 🔭 I’m currently working on a Paint program in Java
