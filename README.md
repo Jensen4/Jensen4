@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning C, Javascript, React
-- 🔭 I’m currently working on a custom shell in C
+- 🔭 I’m currently working on a custom shell in C, a mobile social media app
