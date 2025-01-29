@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning RISC-V, Assembly, Javascript
-- 🔭 I’m currently working on a Paint program in Java
+- 🌱 I’m currently learning C, Javascript, React
+- 🔭 I’m currently working on a custom shell in C
