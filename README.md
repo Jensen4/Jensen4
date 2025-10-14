@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Web App using Spring Boot<br>🌱 I’m currently learning SQL, Spring Boot, Typescript, Tensorflow<br>💬 Ask me about my favourite artists
+🔭 I’m currently working on a Web App using React and Django<br>🌱 I’m currently learning SQL, Django, Typescript<br>💬 Ask me about my favourite artists
 
 
 # 💻 Tech Stack:
