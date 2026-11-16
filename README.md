@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Web App using React and Django<br>🌱 I’m currently learning SQL, Django, Typescript<br>💬 Ask me about my favourite artists
+🔭 I’m currently working on a Web App using React and FastAPI<br>🌱 I’m currently learning about MCPs<br>💬 Ask me about my favourite artists
 
 
 # 💻 Tech Stack:
